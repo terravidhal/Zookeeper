@@ -21,7 +21,7 @@ public class Mammals {
 	}
 	//OTHERS METHODS
 	public int displayEnergy() {
-		System.out.println("This animal's energy is: " + this.getEnergy());
+		System.out.println("animal's energy : " + this.getEnergy());
 		return this.getEnergy();
 	}
 }
