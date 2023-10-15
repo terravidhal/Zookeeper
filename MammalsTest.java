@@ -2,7 +2,6 @@ public class MammalsTest {
 
 	public static void main(String[] args) {
 		//INSTANCES
-		//Mammals mammal = new Mammals();
 		Gorilla gorilla = new Gorilla();
 		GiantBat giantBat = new GiantBat();
 		
